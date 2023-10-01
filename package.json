@@ -1,0 +1,16 @@
+{
+	"name": "03-bases-node",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"dev": "node main"
+	},
+	"keywords": [],
+	"author": "Erick Sosa",
+	"license": "MIT",
+	"dependencies": {
+		"colors": "1.4.0",
+		"yargs": "17.7.2"
+	}
+}
